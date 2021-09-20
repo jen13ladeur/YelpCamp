@@ -68,6 +68,7 @@ app.use(helmet());
 
 const scriptSrcUrls = [
     "https://stackpath.bootstrapcdn.com",
+    "https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/css/bootstrap.min.css",
     "https://api.tiles.mapbox.com",
     "https://api.mapbox.com",
     "https://kit.fontawesome.com",
@@ -78,6 +79,7 @@ const scriptSrcUrls = [
 const styleSrcUrls = [
     "https://kit-free.fontawesome.com",
     "https://stackpath.bootstrapcdn.com",
+    "https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/css/bootstrap.min.css",
     "https://api.mapbox.com",
     "https://api.tiles.mapbox.com",
     "https://fonts.googleapis.com",
@@ -85,6 +87,7 @@ const styleSrcUrls = [
 ];
 const connectSrcUrls = [
     "https://stackpath.bootstrapcdn.com",
+    "https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/css/bootstrap.min.css",
     "https://api.mapbox.com",
     "https://*.tiles.mapbox.com",
     "https://events.mapbox.com",
