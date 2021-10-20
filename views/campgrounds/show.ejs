@@ -59,6 +59,7 @@
     </div>
     <div class="col-6">
         <div id='map'></div>
+        <!-- <h4>Reviews for <%=campground.title%></h4> -->
         <% if(currentUser) {%>
         <h2>Leave A Review!</h2>
         <form action="/campgrounds/<%= campground._id%>/reviews" method="POST" class="mb-3 validated-form" novalidate>
@@ -117,3 +118,4 @@
 </script>
 
 <script src="/JSscripts/showPageMap.js"></script>
+
