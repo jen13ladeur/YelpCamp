@@ -1,6 +1,6 @@
 # YelpCamp :tent:
 
-Enjoy exploring some of the best campsites around the world shared by campers like yourselves! And add to the fun by sharing and uploading your own campsite experiences! 
+Enjoy exploring some of the best campsites around the world shared by campers like yourselves! Add to the fun by sharing and uploading your own campsite experiences! 
 
 * Upload new campsites with photos
 * Edit/Delete your own campsite(s)
